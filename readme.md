@@ -2,3 +2,4 @@
 --Estado del Proyecto : En construcción 
 Para ejecutar el sistema debes poner:
 '''npm react install'''
+-- Creamos el index.html--
